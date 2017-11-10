@@ -1,0 +1,14 @@
+div {
+    height: 400px;
+    width: 100vw;
+    border: 3px groove lightgreen;
+    display: inline-block;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+    border: 3px groove lightgreen;
+    float: left;
+}
