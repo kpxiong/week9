@@ -1,0 +1,21 @@
+div {
+    height: 200px;
+    width: 200px;
+    border: 2px solid #0ebfe9;
+}
+
+/* BAD */
+
+#one {
+    background-color: #00C957;
+}
+
+#two {
+    background-color: #00C957;
+}
+
+/* GOOD */
+
+#one, #two {
+    background-color: #00C957;
+}
